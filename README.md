@@ -5,8 +5,10 @@ Work in progress, DDEV addon for Deployer `dep`-command.
 Install via
 
 ```bash
-ddev get mandrasch/ddev-deployer-dep
+ddev get mandrasch/ddev-addon-deployer-dep
 ```
+
+Usage after installation: `ddev dep <your-command>`
 
 Deployer must be installed via `ddev composer require --dev deployer/deployer:^7`, otherwise this won't work.
 
