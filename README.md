@@ -1,4 +1,4 @@
-[![tests](https://github.com/mandrasch/ddev-deployer-dep/actions/workflows/tests.yml/badge.svg)](https://github.com/mandrasch/ddev-deployer-dep/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2022.svg)
+[![tests](https://github.com/mandrasch/ddev-addon-deployer-dep/actions/workflows/tests.yml/badge.svg)](https://github.com/mandrasch/ddev-addon-deployer-dep/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2022.svg)
 
 DDEV addon for Deployer `dep`-command.
 
