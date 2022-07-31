@@ -7,6 +7,6 @@
 ## ExecRaw: true
 
 # TODO: use better path if vendor/ is somewhere else
-/var/www/html/vendor/bin/deployer.phar  "$@"
+/var/www/html/vendor/bin/dep  "$@"
 
 # Deployer must be installed via 'ddev composer require --dev deployer/deployer:^7', otherwise this won't work
